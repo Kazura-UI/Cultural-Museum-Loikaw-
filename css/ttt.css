@@ -1,0 +1,43 @@
+#wrapper{
+paddin-right : 40px;
+padding-left : 40px;
+	background-color:Gainsboro;
+    width:1000px;
+    height:auto;
+	box-shadow:7px -7px 5px DarkGray;
+	border-radius:2px;
+	}
+body { padding-right : 20%; }
+h3{margin-right : 20%;
+	   margin-left : 20%;
+	   border:2px groove blue;
+           border-radius:5px;
+	   background-color:aqua;
+	   padding-top:3px;
+	   padding-bottom:3px;
+	   font-size:30px;
+	}
+
+
+img { float : left;
+	  width:400px
+	height:550px;
+	}
+.content{
+	float:right;
+	width:800px;
+	margin-left : 480px ;
+
+	}
+figcaption{text-align:center;
+	}
+figure{width:400px;
+	border:1px solid DarkBlue;
+	padding:10px;
+	background-color:Navy;
+	border-radius:5px;
+	color:Cyan;
+	}
+p{display:block;
+	width : 50%;
+	padding-right : 50px;}
